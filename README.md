@@ -1,74 +1,57 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
+# Recipe Finder
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 🚨 Getting Started
 
-## Available Scripts
+You can check our project by visiting the following link: <a href="https://recipe-finder-pearl.vercel.app/" target="_blank"><b>Recipe Finder</b></a>.
 
-In the project directory, you can run:
+## <a name="introduction">🤖 Introduction</a>
 
-### `npm start`
+Welcome to the Recipe Finder project, a web application designed to help you find recipes based on the ingredients you have at home. The Recipe Finder offers a user-friendly interface to search for recipes and provides detailed cooking instructions to make your meal preparation easier.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## <a name="tech-stack">Tech Stack</a>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- React.js
+- Semantic UI
+- JavaScript
+- HTML
+- CSS
 
-### `npm test`
+## <a name="quick-start">Integration and Installation Process</a>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Follow these steps to set up the project locally on your device.
 
-### `npm run build`
+### Clone this Project
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```bash
+git clone https://github.com/amitguria/Recipe-Finder.git
+cd Recipe-Finder
+```
+### Installation
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Install dependencies using npm:
+```bash
+npm install
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Running the Project using npm
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```bash
+npm start
+```
+Open http://localhost:3000 with your browser to see the result.
 
 ## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+To learn more about React.js and Semantic UI, take a look at the following resources:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- [React.js Documentation](https://legacy.reactjs.org/docs/getting-started.html) - learn about React.js features and API.
+- [Semantic UI React Documentation](https://react.semantic-ui.com/usage) - learn about using Semantic UI with React.
+- [Learn React](https://legacy.reactjs.org/docs/getting-started.html) - an interactive React.js tutorial.
 
-### Code Splitting
+You can check out [the React.js GitHub repository](https://github.com/vercel) - your feedback and contributions are welcome!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Deploy on Vercel
 
-### Analyzing the Bundle Size
+The easiest way to deploy your React.js app is to use the [Vercel Platform](https://vercel.com/) from the creators of React.js.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# Recipe-Finder
->>>>>>> 3ce512a5cc3fad738e5f624d00d2cc253e971b6d
+Check out the [Vercel deployment documentation](https://vercel.com/guides/deploying-react-with-vercel) for more details.
